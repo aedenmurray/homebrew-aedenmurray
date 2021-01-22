@@ -1,5 +1,5 @@
 class Listeningto < Formula
-    desc ""
+    desc "Share your music in your Slack status."
     homepage "https://github.com/aedenmurray/listeningto"
     url "https://files.aedenmurray.io/tools/listeningto.tar.gz"
     version "1.0"
